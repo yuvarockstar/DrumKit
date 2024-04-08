@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: grey;
+  background-image: url("images/a.jpg");
 }
 
 h1 {
